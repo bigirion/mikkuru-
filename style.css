@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  background-color: chartreuse
+}
+
+header{
+    position: relative;
+    padding-left: 100px
+}
+
+nav{
+  position: absolute;
+  top:0;
+  right:100px
+}
+
+.lists{
+  display: flex
+  color: blue;
+  list-style-type: none;
+  text-align: center;
+}
+
+.list {
+  color:darkcyanl;
+  padding-right: 50px;
+  font-weight: bold;
+  font-size:20px;
+}
+
+.introductions{
+  padding-left: 50px;
+}
+
+
+
+.introduction {
+  display : flex;   
+}
+
+.mikkurus {
+  padding-left: 100px;
+  text-align: left;
+}
+.img {
+  width: 200px;
+}
+
+.text {
+  width: 1000px;
+}
+
+
+.media{
+text-align: center;
+padding-top: 100px;
+}
+
+.footer{
+  padding-top:50px;
+  text-align: center;
+  font-size:25px;
+}
+
+.mikkuruss {
+  padding-left:100px;
+  text-align: left;
+}
